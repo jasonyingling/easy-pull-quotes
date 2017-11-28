@@ -16,7 +16,7 @@
  * Plugin Name:       Easy Pull Quotes
  * Plugin URI:        http://jasonyingling.me
  * Description:       This is a short description of what the plugin does. It's displayed in the WordPress admin area.
- * Version:           1.1
+ * Version:           1.2
  * Author:            Jason Yingling
  * Author URI:        http://jasonyingling.me
  * License:           GPL-2.0+

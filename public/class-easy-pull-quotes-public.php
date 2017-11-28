@@ -113,7 +113,7 @@ class Easy_Pull_Quotes_Public {
 		return '<span class="epq-pull-quote epq-pull-quote-default epq-' . esc_attr($epq['align']) . '">' . do_shortcode($content) . '<a href="https://twitter.com/intent/tweet?text='.$sanitized_text.'&url='.$sanitized_url.'" class="epq-twitter"><span class="dashicons dashicons-twitter"></span></a></span>';
 	}
 
-	public function truncate($string,$length=100,$append="&hellip;") {
+	public function truncate($string,$length=240,$append="&hellip;") {
 		$string = trim($string);
 
 		if(strlen($string) > $length) {

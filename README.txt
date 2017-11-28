@@ -1,10 +1,10 @@
 === Plugin Name ===
 Contributors: yingling017
-Donate link: http://jasonyingling.me
+Donate link: https://jasonyingling.me/donations/buy-me-a-coffee/
 Tags: twitter, tweet, twitter plugin, pull quote, share, social media, quotes, quotation
 Requires at least: 3.0.1
-Tested up to: 4.4.2
-Stable tag: 1.1
+Tested up to: 4.9
+Stable tag: 1.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
